@@ -1,0 +1,22 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2014.7.24)  29 APR 2016 19:02
+entering extended mode
+**C:/Papers_eis/2015/Darya_Thesis/refs/mypub.bib
+(C:/Papers_eis/2015/Darya_Thesis/refs/mypub.bib
+! Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.22 @article{small_
+                    journal,
+? 
+! Emergency stop.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.22 @article{small_
+                    journal,
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!

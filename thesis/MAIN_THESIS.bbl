@@ -1,0 +1,974 @@
+\begin{thebibliography}{100}
+
+\bibitem{scorm_specification2011}
+{SCORM 2004 4th Edition Specification}.
+\newblock Technical report, ADL, 2011.
+
+\bibitem{scorm2011}
+{SCORM Users guide for programmers}.
+\newblock Technical report, ADL, 2011.
+
+\bibitem{sahar_vahdati_2015_14756}
+{\em {OpenCourseWare Observatory – Does the Quality of OpenCourseWare Live up
+  to its Promise?}} Zenodo, February 2015.
+
+\bibitem{Achananuparp2007}
+Palakorn Achananuparp, Katherine~W McCain, and Robert~B Allen.
+\newblock Supporting student collaboration for image indexing.
+\newblock In {\em Asian Digital Libraries. Looking Back 10 Years and Forging
+  New Frontiers}, pages 24--34. Springer, 2007.
+
+\bibitem{Agnew2010}
+Grace Agnew, Chad~M Mills, and Carolyn~A Maher.
+\newblock Vmcanalytic: Developing a collaborative video analysis tool for
+  education faculty and practicing educators.
+\newblock In {\em System Sciences (HICSS), 2010 43rd Hawaii International
+  Conference on}, pages 1--10. IEEE, 2010.
+
+\bibitem{andersen2007web}
+Per Andersen.
+\newblock {\em What is Web 2.0?: ideas, technologies and implications for
+  education}, volume~1.
+\newblock JISC Bristol, UK, 2007.
+
+\bibitem{ankolekar2007two}
+Anupriya Ankolekar, Markus Kr{\"o}tzsch, Thanh Tran, and Denny Vrandecic.
+\newblock The two cultures: Mashing up web 2.0 and the semantic web.
+\newblock In {\em Proceedings of the 16th international conference on World
+  Wide Web}, pages 825--834. ACM, 2007.
+
+\bibitem{direct_mapping}
+Marcelo Arenas, , Alexandre Bertails, Eric Prud'hommeaux, and Juan Sequeda.
+\newblock A direct mapping of relational data to rdf.
+\newblock Working draft, W3C, 2012.
+
+\bibitem{small_journal}
+S{\"o}ren Auer, Ali Khalili, and Darya Tarasowa.
+\newblock Crowd-sourced open courseware authoring with slidewiki.org.
+\newblock {\em International Journal of Emerging Technologies in Learning
+  (iJET)}, 8(1), 2013.
+
+\bibitem{Auer2010}
+Sören Auer, Lee Feigenbaum, Daniel Miranker, Angela Fogarolli, and Juan
+  Sequeda.
+\newblock Use cases and requirements for mapping relational databases to rdf,
+  2010.
+
+\bibitem{Auinger2009}
+Andreas Auinger, Martin Ebner, Dietmar Nedbal, and Andreas Holzinger.
+\newblock Mixing content and endless collaboration--mashups: Towards future
+  personal learning environments.
+\newblock In {\em Universal Access in Human-Computer Interaction. Applications
+  and Services}, pages 14--23. Springer, 2009.
+
+\bibitem{Bafoutsou2002}
+Georgia Bafoutsou and Gregoris Mentzas.
+\newblock Review and functional classification of collaborative systems.
+\newblock {\em International journal of information management},
+  22(4):281--305, 2002.
+
+\bibitem{DBLP:journals/ile/BarriocanalSAL11}
+Elena~Garc\'{\i}a Barriocanal, Miguel-{\'A}ngel Sicilia, Salvador~S{\'a}nchez
+  Alonso, and Miltiadis~D. Lytras.
+\newblock Semantic annotation of video fragments as learning objects.
+\newblock {\em Interactive Learning Environments}, 19(1):25--44, 2011.
+
+\bibitem{Bauer2011}
+Daniel Bauer, Matthias Holzer, Veronika Kopp, and Martin~R Fischer.
+\newblock {Pick-N multiple choice-exams: a comparison of scoring algorithms.}
+\newblock {\em Advances in health sciences education : theory and practice},
+  16(2):211--21, May 2011.
+
+\bibitem{Ben-Simon1997}
+A.~Ben-Simon, D.~V. Budescu, and B.~Nevo.
+\newblock {A Comparative Study of Measures of Partial Knowledge in
+  Multiple-Choice Tests}.
+\newblock {\em Applied Psychological Measurement}, 21(1):65--88, March 1997.
+
+\bibitem{Bertails_2011}
+Alexandre Bertails and Eric~Gordon Prud'hommeaux.
+\newblock Interpreting relational databases in the rdf domain.
+\newblock In {\em K-CAP}, pages 129--136, 2011.
+
+\bibitem{bizer2007quality}
+Christian Bizer.
+\newblock {\em Quality Driven Information Filtering: In the Context of Web
+  Based Information Systems}.
+\newblock PhD thesis, Free University of Berlin, 2007.
+
+\bibitem{DBLP:journals/ijswis/BizerS09}
+Christian Bizer and Andreas Schultz.
+\newblock The berlin sparql benchmark.
+\newblock {\em Int. J. Semantic Web Inf. Syst.}, 5(2):1--24, 2009.
+
+\bibitem{blau2013collaboration}
+Ina Blau.
+\newblock E-collaboration within, between, and without institutions: Towards
+  better functioning of.
+\newblock {\em Interdisciplinary Applications of Electronic Collaboration
+  Approaches and Technologies}, page 188, 2013.
+
+\bibitem{Bow2013}
+Hansen~C Bow, Jonathan~R Dattilo, Andrea~M Jonas, and Christoph~U Lehmann.
+\newblock A crowdsourcing model for creating preclinical medical education
+  study tools.
+\newblock {\em Academic Medicine}, 88(6):766--770, 2013.
+
+\bibitem{boyd2007youth}
+Danah Boyd.
+\newblock Why youth (heart) social network sites: The role of networked publics
+  in teenage social life.
+\newblock {\em MacArthur foundation series on digital learning--Youth,
+  identity, and digital media volume}, pages 119--142, 2007.
+
+\bibitem{JCC4:JCC4393}
+danah~m. boyd and Nicole~B. Ellison.
+\newblock Social network sites: Definition, history, and scholarship.
+\newblock {\em Journal of Computer-Mediated Communication}, 13(1):210--230,
+  2007.
+
+\bibitem{branon2001synchronous}
+Rovy~F Branon and Christopher Essex.
+\newblock Synchronous and asynchronous communication tools in distance
+  education.
+\newblock {\em TechTrends}, 45(1):36--36, 2001.
+
+\bibitem{Brooks2006}
+Christopher Brooks, Rupi Panesar, and Jim Greer.
+\newblock {\em Awareness and collaboration in the ihelp courses content
+  management system}.
+\newblock Springer, 2006.
+
+\bibitem{Bruckman2008}
+Amy Bruckman.
+\newblock Social support for creativity and learning online.
+\newblock In {\em Digital Games and Intelligent Toys Based Education, 2008
+  Second IEEE International Conference on}, pages 3--7. IEEE, 2008.
+
+\bibitem{brusilovsky2001adaptive}
+Peter Brusilovsky.
+\newblock Adaptive hypermedia.
+\newblock {\em User modeling and user-adapted interaction}, 11(1-2):87--110,
+  2001.
+
+\bibitem{Brusilovsky2003}
+Peter Brusilovsky.
+\newblock Developing adaptive educational hypermedia systems: From design
+  models to authoring tools.
+\newblock In {\em Authoring Tools for Advanced Technology Learning
+  Environments}, pages 377--409. Springer, 2003.
+
+\bibitem{Burel2009}
+Gregoire Burel, Amparo~E. Cano1, and Vitaveska Lanfranchi.
+\newblock Ozone browser: Augmenting the web with semantic overlays.
+\newblock volume 449 of {\em CEUR Workshop Proceedings ISSN 1613-0073}, June
+  2009.
+
+\bibitem{Cabada2011}
+Ram{\'o}n~Zatarain Cabada, Mar{\'\i}a~Luc{\'\i}a Barr{\'o}n~Estrada, and
+  Carlos~Alberto Reyes~Garc{\'\i}a.
+\newblock Educa: A web 2.0 authoring tool for developing adaptive and
+  intelligent tutoring systems using a kohonen network.
+\newblock {\em Expert Systems with Applications}, 38(8):9522--9529, 2011.
+
+\bibitem{Cai2010}
+Jing Cai, Yueliang Zhou, and Gaofeng Ruan.
+\newblock Learning activities design of a blended learning course based on
+  public internet.
+\newblock In {\em Education Technology and Computer (ICETC), 2010 2nd
+  International Conference on}, volume~3, pages V3--297. IEEE, 2010.
+
+\bibitem{Chiribuca2008}
+Dan Chiribuca, Daniel Hunyadi, and Emil~M Popa.
+\newblock The educational semantic web.
+\newblock In {\em Proceedings of the 8th conference on Applied informatics and
+  communications (AIC 08), Nikos E. Mastorakis, Metin Demiralp, Valeri
+  Mladenov, and Zoran Bojkovic (Eds.). World Scientific and Engineering Academy
+  and Society (WSEAS), Stevens Point, Wisconsin, USA}, pages 314--319, 2008.
+
+\bibitem{Claros2013}
+Ivan Claros and Ruth Cobos.
+\newblock Social media learning: An approach for composition of multimedia
+  interactive object in a collaborative learning environment.
+\newblock In {\em Computer Supported Cooperative Work in Design (CSCWD), 2013
+  IEEE 17th International Conference on}, pages 570--575. IEEE, 2013.
+
+\bibitem{learning2002ieee}
+Learning Technology~Standards Committee et~al.
+\newblock Ieee standard for learning object metadata.
+\newblock {\em IEEE Standard}, 1484(1):2007--04, 2002.
+
+\bibitem{Cronbach}
+L.~J. Cronbach.
+\newblock {An experimental comparison of the multiple true-false and multiple
+  multiple-choice tests.}
+\newblock {\em Journal of Educational Psychology}, 32:533--543, 1941.
+
+\bibitem{Currier2002}
+Sarah Currier.
+\newblock Integrating information resources and online learning in the uk.
+\newblock In {\em Computers in Education, 2002. Proceedings. International
+  Conference on}, pages 818--822. IEEE, 2002.
+
+\bibitem{Dahlan2010}
+Halina~M Dahlan, Ismail~Mohamed Ali, and Ab~Razak~Che Hussin.
+\newblock Suitability of collaborative learning activities in web 2.0
+  environment.
+\newblock In {\em User Science and Engineering (i-USEr), 2010 International
+  Conference on}, pages 65--70. IEEE, 2010.
+
+\bibitem{r2rml}
+Souripriya Das, Seema Sundara, and Richard Cyganiak.
+\newblock R2rml: Rdb to rdf mapping language.
+\newblock Recommendation, W3C, 2012.
+
+\bibitem{dawson2012getting}
+Ross Dawson and Steve Bynghall.
+\newblock {\em Getting results from crowds}.
+\newblock Advanced Human Technologies San Francisco, 2012.
+
+\bibitem{de2009rss}
+Carmen De~Maio, Giuseppe Fenza, V~Loia, S~Senatore, M~Gaeta, and F~Orciuoli.
+\newblock Rss-generated contents through personalizing e-learning agents.
+\newblock In {\em Intelligent Systems Design and Applications, 2009. ISDA'09.
+  Ninth International Conference on}, pages 49--54. IEEE, 2009.
+
+\bibitem{bechhofer2004owl}
+Mike Dean, Guus Schreiber, Sean Bechhofer, Frank van Harmelen, Jim Hendler, Ian
+  Horrocks, Deborah~L. McGuinness, Peter~F. Patel-Schneider, and Lynn~Andrea
+  Stein.
+\newblock Owl web ontology language reference.
+\newblock Recommendation, W3C, 2004.
+
+\bibitem{Devedzic:2006:SWE:1177224}
+Vladan Devedzic.
+\newblock {\em Semantic Web and Education (Integrated Series in Information
+  Systems)}.
+\newblock Springer, Secaucus, NJ, USA, 2006.
+
+\bibitem{dicheva2002collaborative}
+Darina Dicheva, Lora Aroyo, and AI~Cristea.
+\newblock Collaborative courseware authoring support.
+\newblock {\em CATE}, 2002.
+
+\bibitem{Dietze:2012:LEI:2245276.2245347}
+Stefan Dietze, Honq~Qing Yu, Daniela Giordano, Eleni Kaldoudi, Nikolas
+  Dovrolis, and Davide Taibi.
+\newblock Linked education: Interlinking educational resources and the web of
+  data.
+\newblock In {\em Proceedings of the 27th Annual ACM Symposium on Applied
+  Computing}, SAC '12, pages 366--371, New York, NY, USA, 2012. ACM.
+
+\bibitem{dinucci1999fragmented}
+D~DiNucci.
+\newblock Fragmented future, 1999.
+
+\bibitem{dinucci1999design}
+Darcy DiNucci.
+\newblock Design \& new media: Fragmented future-web development faces a
+  process of mitosis, mutation, and natural selection.
+\newblock {\em PRINT-NEW YORK-}, 53:32--35, 1999.
+
+\bibitem{doan2011crowdsourcing}
+Anhai Doan, Raghu Ramakrishnan, and Alon~Y Halevy.
+\newblock Crowdsourcing systems on the world-wide web.
+\newblock {\em Communications of the ACM}, 54(4):86--96, 2011.
+
+\bibitem{Dressel1953}
+PL~Dressel and J~Schmid.
+\newblock {Some modifications of the multiple-choice item}.
+\newblock {\em Educational and Psychological Measurement}, 13(4):574--595,
+  1953.
+
+\bibitem{Dyba2007}
+Tore Dyba, Torgeir Dingsoyr, and Geir~K. Hanssen.
+\newblock Applying systematic reviews to diverse study types: An experience
+  report.
+\newblock In {\em Proceedings of the First International Symposium on Empirical
+  Software Engineering and Measurement}, ESEM '07, pages 225--234, Washington,
+  DC, USA, 2007. IEEE Computer Society.
+
+\bibitem{elrufaie2005wiki}
+Elharith Elrufaie and David~A Turner.
+\newblock A wiki paradigm for use in it courses.
+\newblock In {\em Information Technology: Coding and Computing, 2005. ITCC
+  2005. International Conference on}, volume~2, pages 770--771. IEEE, 2005.
+
+\bibitem{Erling2008}
+Orri Erling.
+\newblock Requirements for relational to rdf mapping, 2008.
+
+\bibitem{estelles2012towards}
+Enrique Estell{\'e}s-Arolas and Fernando Gonz{\'a}lez-Ladr{\'o}n-de Guevara.
+\newblock Towards an integrated crowdsourcing definition.
+\newblock {\em Journal of Information science}, 38(2):189--200, 2012.
+
+\bibitem{euzenat2007ontology}
+J{\'e}r{\^o}me Euzenat and P~Shvaiko.
+\newblock {\em Ontology alignment}.
+\newblock Springer, 2007.
+
+\bibitem{Farthing1998}
+DW~Farthing, DM~Jones, and D~McPhee.
+\newblock {Permutational multiple-choice questions: an objective and efficient
+  alternative to essay-type examination questions}.
+\newblock {\em ACM SIGCSE Bulletin}, 30(3):81--85, 1998.
+
+\bibitem{flemming}
+Annika Flemming.
+\newblock Quality characteristics of linked data publishing datasources.
+\newblock Master's thesis, Humboldt-Universit{\"a}t of Berlin, 2010.
+
+\bibitem{foord2007stolen}
+D~Foord.
+\newblock The stolen principle tick list, a6 training and consultancy, 2007.
+
+\bibitem{unesco}
+International~Institute for Educational~Planning.
+\newblock Open educational resources: Open content for higher education.
+\newblock Technical report, 2005.
+
+\bibitem{Frisbie1992}
+David~A. Frisbie.
+\newblock {The multiple true-false item format: A status review}.
+\newblock {\em Educational Measurement: Issues and Practice}, 11(4):21--26,
+  1992.
+
+\bibitem{garcia2005educational}
+Francisco~Jos{\'e} Garc{\'i}a and Joaqu{\'i}n Garc{\'i}a.
+\newblock Educational hypermedia resources facilitator.
+\newblock {\em Computers \& Education}, 44(3):301--325, 2005.
+
+\bibitem{geiger2011lives}
+R~Stuart Geiger.
+\newblock The lives of bots.
+\newblock {\em Lovink and Tkacz}, 2011.
+
+\bibitem{Ghali2009}
+Fawaz Ghali and Alexandra~I Cristea.
+\newblock Social reference model for adaptive web learning.
+\newblock In {\em Advances in Web Based Learning--ICWL 2009}, pages 162--171.
+  Springer, 2009.
+
+\bibitem{Glover2007}
+Ian Glover, Zhijie Xu, and Glenn Hardaker.
+\newblock Online annotation--research and practices.
+\newblock {\em Computers \& Education}, 49(4):1308--1320, 2007.
+
+\bibitem{Gokcearslan2011}
+Sahin Gokcearslan and Seher Ozcan.
+\newblock Place of wikis in learning and teaching process.
+\newblock {\em Procedia-Social and Behavioral Sciences}, 28:481--485, 2011.
+
+\bibitem{Greenhow2009}
+Christine Greenhow, Beth Robelia, and Joan~E Hughes.
+\newblock Learning, teaching, and scholarship in a digital age web 2.0 and
+  classroom research: What path should we take now?
+\newblock {\em Educational Researcher}, 38(4):246--259, 2009.
+
+\bibitem{DBLP:conf/wikis/HaakeLS05}
+Anja Haake, Stephan Lukosch, and Till Sch{\"u}mmer.
+\newblock Wiki-templates: adding structure support to wikis on demand.
+\newblock In {\em Proceedings of the 2005 International Symposium on Wikis},
+  pages 41--51. ACM, 2005.
+
+\bibitem{Halimi2011}
+Khaled Halimi, Hassina Seridi, and Catherine Faron-Zucker.
+\newblock Solearn: A social learning network.
+\newblock In {\em Computational Aspects of Social Networks (CASoN), 2011
+  International Conference on}, pages 130--135. IEEE, 2011.
+
+\bibitem{hall2009towards}
+Richard Hall.
+\newblock Towards a fusion of formal and informal learning environments: the
+  impact of the read/write web.
+\newblock 2009.
+
+\bibitem{hamid2010efficient}
+Awang Hamid, Dayang Tiawa, Md~Islam, Norma Alias, Abdul~Hafidz Omar, et~al.
+\newblock An efficient authoring activities infrastructure design through grid
+  portal technology.
+\newblock {\em The 7th WSEAS International Conference on Engineering
+  Education}, pages 146--151, 2010.
+
+\bibitem{hasanov2015measuring}
+Farid Hasanov.
+\newblock {\em Measuring and improving the quality of user interaction with
+  learning management systems.}
+\newblock PhD thesis, Rheinische Friedrich-Wilhelms-Universit{\"a}t Bonn, 2015.
+
+\bibitem{heino-n-2009-61-a}
+Norman Heino, Sebastian Dietzold, Michael Martin, and S\"oren Auer.
+\newblock Developing semantic web applications with the ontowiki framework.
+\newblock In {\em Networked Knowledge - Networked Media}, volume 221 of {\em
+  Studies in Computational Intelligence}, pages 61--77. Springer, Berlin /
+  Heidelberg, 2009.
+
+\bibitem{hillairet2008mde}
+Guillaume Hillairet, Fr{\'e}d{\'e}ric Bertrand, and Jean-Yves Lafaye.
+\newblock Mde for publishing data on the semantic web.
+\newblock In {\em TWOMDE}, pages 32--46.
+
+\bibitem{hirth2011human}
+Matthias Hirth, Tobias Ho{\ss}feld, and Phuoc Tran-Gia.
+\newblock Human cloud as emerging internet application-anatomy of the
+  microworkers crowdsourcing platform.
+\newblock {\em University of Wurzburg, Institute of Computer Science, Am
+  Hubland, D-97074 Wurzburg, Germany, Research Report}, (478):45--46, 2011.
+
+\bibitem{hogan2010weaving}
+Aidan Hogan, Andreas Harth, Alexandre Passant, Stefan Decker, and Axel
+  Polleres.
+\newblock Weaving the pedantic web.
+\newblock In {\em LDOW}, 2010.
+
+\bibitem{hogan2012empirical}
+Aidan Hogan, J{\"u}rgen Umbrich, Andreas Harth, Richard Cyganiak, Axel
+  Polleres, and Stefan Decker.
+\newblock An empirical survey of linked data conformance.
+\newblock {\em Web Semantics}, 14:14--44, 2012.
+
+\bibitem{Hohensinn2011}
+C.~Hohensinn and K.~D. Kubinger.
+\newblock {Applying Item Response Theory Methods to Examine the Impact of
+  Different Response Formats}.
+\newblock {\em Educational and Psychological Measurement}, 71(4):732--746,
+  January 2011.
+
+\bibitem{Hong2012}
+Chuleui Hong and Yeongjoon Kim.
+\newblock The multimedia authoring in collaborative e-learning system.
+\newblock In {\em Information Science and Service Science and Data Mining
+  (ISSDM), 2012 6th International Conference on New Trends in}, pages 158--161.
+  IEEE, 2012.
+
+\bibitem{howe2006rise}
+Jeff Howe.
+\newblock The rise of crowdsourcing.
+\newblock {\em Wired magazine}, 14(6):1--4, 2006.
+
+\bibitem{Howe2006}
+Jeff Howe.
+\newblock The rise of crowdsourcing.
+\newblock {\em Wired Magazine}, 14(6), 06 2006.
+
+\bibitem{hubscher2003constructive}
+Teresa H{\"u}bscher-Younger and N~Hari Narayanan.
+\newblock Constructive and collaborative learning of algorithms.
+\newblock {\em ACM SIGCSE Bulletin}, 35(1):6--10, 2003.
+
+\bibitem{ireson2010knowledge}
+Neil Ireson and Gregoire Burel.
+\newblock Knowledge sharing in e-collaboration.
+\newblock In {\em Electronic Government}, pages 351--362. Springer, 2010.
+
+\bibitem{Itten1997}
+S.~Itten and R~Krebs.
+\newblock {\em {Messqualitaet der verschiedenen MC-Itemtypen in den beiden
+  Vorpruefungen des Medizinstudiums an der Universitaet Bern 1997/2}}.
+\newblock Bern: IAWF, 1997.
+
+\bibitem{Jiake2010}
+Lv~Jiake, Zhou Wei, and Wang Xuan.
+\newblock Design and evaluation of a wiki-based collaborative learning
+  environment for colleges computers compulsory education.
+\newblock In {\em Computer Science and Education (ICCSE), 2010 5th
+  International Conference on}, pages 695--699. IEEE, 2010.
+
+\bibitem{Jiao2012}
+H~Jiao, J~Liu, and K~Haynie.
+\newblock {Comparison Between Dichotomous and Polytomous Scoring of Innovative
+  Items in a Large-Scale Computerized Adaptive Test}.
+\newblock {\em Educational and Psychological Measurement}, 72(3):493--509,
+  2012.
+
+\bibitem{travelwell}
+Cynthia Jimes.
+\newblock Travel well open educational resources: a presentation of ongoing
+  research.
+\newblock {\em iSummit 08}, 2008.
+
+\bibitem{Johnson200145}
+Christopher~M Johnson.
+\newblock A survey of current research on online communities of practice.
+\newblock {\em The Internet and Higher Education}, 4(1):45 -- 60, 2001.
+
+\bibitem{kane2009shoemaker}
+Gerald~C Kane and Robert~G Fichman.
+\newblock The shoemaker's children: using wikis for information systems
+  teaching, research, and publication.
+\newblock {\em MIS quarterly}, pages 1--17, 2009.
+
+\bibitem{khalili2014semantics}
+Ali Khalili.
+\newblock A semantics-based user interface model for content annotation,
+  authoring and exploration.
+\newblock 2014.
+
+\bibitem{ekaw_org}
+Ali Khalili, S{\"o}ren Auer, Darya Tarasowa, and Ivan Ermilov.
+\newblock Slidewiki: Elicitation and sharing of corporate knowledge using
+  presentations.
+\newblock In {\em Proceedings of the EKAW 2012}, Lecture Notes in Computer
+  Science (LNCS) 7603. Springer, 2012.
+
+\bibitem{Kitchenham2004}
+B.~Kitchenham.
+\newblock Procedures for performing systematic reviews.
+\newblock Technical report, Keele University and NICTA, 2004.
+
+\bibitem{klugman2010human}
+Jeni Klugman.
+\newblock Human development report 2010--20th anniversary edition. the real
+  wealth of nations: Pathways to human development.
+\newblock 2010.
+
+\bibitem{smw:jws07}
+Markus Kr\"{o}tzsch, Denny Vrande\v{c}i\'{c}, Max V\"{o}lkel, Heiko Haller, and
+  Rudi Studer.
+\newblock {Semantic Wikipedia}.
+\newblock {\em Journal of Web Semantics}, 5(4):251--261, 2007.
+
+\bibitem{DBLP:conf/iadis/KuoTKHLC08}
+Yen-Hung Kuo, Qing~Tan Kinshuk, Yueh-Min Huang, Tzu-Chien Liu, and Maiga Chang.
+\newblock Collaborative creation of authentic examples with location for
+  u-learning.
+\newblock In {\em International Conference e-Learning 2008}, pages 16 -- 20.
+  IADIS, 2008.
+
+\bibitem{Lee2010}
+Baozhen Lee and Shilun Ge.
+\newblock Personalisation and sociability of open knowledge management based on
+  social tagging.
+\newblock {\em Online Information Review}, 34(4):618--625, 2010.
+
+\bibitem{Leinonen2010}
+Teemu Leinonen, Jukka Purma, Hans Poldoja, and Tarmo Toikkanen.
+\newblock Information architecture and design solutions scaffolding authoring
+  of open educational resources.
+\newblock {\em Learning Technologies, IEEE Transactions on}, 3(2):116--128,
+  2010.
+
+\bibitem{LeufCunningham2001}
+Bo~Leuf and Ward Cunningham.
+\newblock {\em The Wiki way: quick collaboration on the Web}.
+\newblock Addison-Wesley, London, 2001.
+
+\bibitem{SUS2009}
+James Lewis and Jeff Sauro.
+\newblock {The Factor Structure of the System Usability Scale}.
+\newblock In {\em Human Centered Design}, volume 5619 of {\em LNCS},
+  chapter~12, pages 94--103. Springer, 2009.
+
+\bibitem{Li2010a}
+Yanyan Li, Mingkai Dong, and Ronghuai Huang.
+\newblock Developing a collaborative e-learning environment based upon semantic
+  wiki: from design models to application scenarios.
+\newblock In {\em Advanced Learning Technologies (ICALT), 2010 IEEE 10th
+  International Conference on}, pages 222--226. IEEE, 2010.
+
+\bibitem{liu2006designing}
+Chengfei Liu and Jianxin Li.
+\newblock Designing quality xml schemas from e-r diagrams.
+\newblock In {\em Advances in Web-Age Information Management}, number 4016 in
+  LNCS, pages 508--519. Springer, 2006.
+
+\bibitem{Lopez2011}
+Vanessa Lopez, Victoria Uren, Marta Sabou, and Enrico Motta.
+\newblock Is question answering fit for the semantic web? a survey.
+\newblock {\em Semantic Web ? Interoperability, Usability, Applicability},
+  2(2):125--155, September 2011.
+
+\bibitem{learn_definition2002}
+IEEE LTSC.
+\newblock Learning object definition.
+\newblock Technical report, LTSC Learning Technology Standards Committee of the
+  Institute of Electrical and Electronics Engineers (IEEE),, 2002.
+
+\bibitem{Luo2010}
+Airong Luo, Dick Ng'ambi, and Ted Hanss.
+\newblock Towards building a productive, scalable and sustainable collaboration
+  model for open educational resources.
+\newblock In {\em Proceedings of the 16th ACM international conference on
+  Supporting group work}, pages 273--282. ACM, 2010.
+
+\bibitem{Marcilla2012}
+Saenz Marcilla et~al.
+\newblock Framework for the development and reuse of educational resources in
+  the area of information systems management for different degrees at a
+  technical university.
+\newblock In {\em Proceedings of the 2012 IEEE Global Engineering Education
+  Conference (EDUCON)}, pages 1--9, 2012.
+
+\bibitem{DBLP:conf/icsoft/MatthesNS11}
+Florian Matthes, Christian Neubert, and Alexander Steinhoff.
+\newblock Hybrid wikis: Empowering users to collaboratively structure
+  information.
+\newblock In {\em ICSOFT (1)}, pages 250--259. SciTePress, 2011.
+
+\bibitem{Melon2004}
+Carnegie Melon.
+\newblock {SCORM Best Practices Guide for Content Developers}.
+\newblock Technical report, Learning Systems Architecture Lab, 2004.
+
+\bibitem{Muller2011}
+Wolfgang Müller, Isabel Rojas, Andreas Eberhart, Peter Haase, and Michael
+  Schmidt.
+\newblock A-r-e: The author-review-execute environment.
+\newblock {\em Procedia Computer Science}, 4:627 -- 636, 2011.
+\newblock ICCS 2011.
+
+\bibitem{Morgan1979}
+MRJ Morgan.
+\newblock {MCQ: An interactive computer program for multiple-choice
+  self-testing}.
+\newblock {\em Biochemical Education}, 7(3):67--69, 1979.
+
+\bibitem{Moro2011}
+R{\'o}bert M{\'o}ro, Ivan Srba, Maro{\v{s}} Un{\v{c}}{\'\i}k, M{\'a}ria
+  Bielikov{\'a}, and Mari{\'a}n {\v{S}}imko.
+\newblock Towards collaborative metadata enrichment for adaptive web-based
+  learning.
+\newblock In {\em Proceedings of the 2011 IEEE/WIC/ACM International
+  Conferences on Web Intelligence and Intelligent Agent Technology-Volume 03},
+  pages 106--109. IEEE Computer Society, 2011.
+
+\bibitem{Moxley2008}
+Joseph Moxley.
+\newblock Datagogies, writing spaces, and the age of peer production.
+\newblock {\em Computers and Composition}, 25(2):182--202, 2008.
+
+\bibitem{murugesan2007understanding}
+San Murugesan.
+\newblock Understanding web 2.0.
+\newblock {\em IT professional}, 9(4):34--41, 2007.
+
+\bibitem{Nesic2010}
+Sasa Nesic, Mehdi Jazayeri, Monica Landoni, and Dragan Gasevic.
+\newblock Using semantic documents and social networking in authoring of course
+  material: An empirical study.
+\newblock In {\em Advanced Learning Technologies (ICALT), 2010 IEEE 10th
+  International Conference on}, pages 666--670. IEEE, 2010.
+
+\bibitem{Nurjanah2011}
+Dade Nurjanah, Hugh~C Davis, and Thanassis Tiropanis.
+\newblock Collaborative authoring of adaptive learning resources: Opportunities
+  and challenges.
+\newblock In {\em Collaborative Computing: Networking, Applications and
+  Worksharing (CollaborateCom), 2011 7th International Conference on}, pages
+  538--542. IEEE, 2011.
+
+\bibitem{Ola2009}
+Ade~G Ola, Abiodun~O Bada, Emmanuel Omojokun, and A~Adekoya.
+\newblock Actualizing learning and teaching best practices in online education
+  with open architecture and standards.
+\newblock In {\em Proc. of International Conference on Information Security and
+  Privacy}, pages 1790--511, 2009.
+
+\bibitem{Pansanato2007}
+Luciano~TE Pansanato and Renata~PM Fortes.
+\newblock System description: An orienteering strategy to browse
+  semantically-enhanced educational wiki pages.
+\newblock In {\em The Semantic Web: Research and Applications}, pages 809--818.
+  Springer, 2007.
+
+\bibitem{DBLP:reference/ai/PedreiraSC09}
+Nieves Pedreira, Jos{\'e} Ram{\'o}n~M{\'e}ndez Salgueiro, and
+  Manuel~Mart\'{\i}nez Carballo.
+\newblock E-learning in new technologies.
+\newblock In {\em Encyclopedia of Artificial Intelligence}, pages 532--535. IGI
+  Global, 2009.
+
+\bibitem{peters2009folksonomies}
+Isabella Peters.
+\newblock {\em Folksonomies: Indexing and retrieval in Web 2.0}, volume~1.
+\newblock Walter de Gruyter, 2009.
+
+\bibitem{Pomplun1997}
+M.~Pomplun and M.~H. Omar.
+\newblock {Multiple-Mark Items: An Alternative Objective Item Format?}
+\newblock {\em Educational and Psychological Measurement}, 57(6):949--962,
+  December 1997.
+
+\bibitem{Porcello2013}
+Darrell Porcello and Sherry Hsi.
+\newblock Crowdsourcing and curating online education resources.
+\newblock {\em Science}, 341(6143):240--241, 2013.
+
+\bibitem{posner1992people}
+Ilona~R Posner and Ronald~M Baecker.
+\newblock How people write together [groupware].
+\newblock In {\em System Sciences, 1992. Proceedings of the Twenty-Fifth Hawaii
+  International Conference on}, volume~4, pages 127--138. IEEE, 1992.
+
+\bibitem{Rich2009}
+Peter~J Rich and Michael Hannafin.
+\newblock Video annotation tools technologies to scaffold, structure, and
+  transform teacher reflection.
+\newblock {\em Journal of Teacher Education}, 60(1):52--67, 2009.
+
+\bibitem{richardson2003building}
+Matthew Richardson and Pedro Domingos.
+\newblock Building large knowledge bases by mass collaboration.
+\newblock In {\em Proceedings of the 2nd international conference on Knowledge
+  capture}, pages 129--137. ACM, 2003.
+
+\bibitem{Ripkey1996}
+DR~Ripkey and SM~Case.
+\newblock {A\&quot; new\&quot; item format for assessing aspects of clinical
+  competence}.
+\newblock {\em Academic Medicine}, 71(10):34--36, 1996.
+
+\bibitem{Rivera2010}
+Adexe Rivera, Santiago Candela, and Carmelo~R Garc{\'\i}a.
+\newblock Wikidis: a case of collaborative content management system for
+  educative community.
+\newblock {\em Education}, 2010.
+
+\bibitem{rodriguez}
+G~Rodriguez and S~Cueva.
+\newblock Social network and oer.
+\newblock In {\em OCWC Global}, 2009.
+
+\bibitem{Romero-Moreno2007}
+Luisa~M Romero-Moreno, F~Javier Ortega, and Jos{\'e}~A Troyano.
+\newblock Obtaining adaptation of virtual courses by using a collaborative tool
+  and learning design.
+\newblock In {\em Proceedings of the 2007 Euro American conference on
+  Telematics and information systems}, page~42. ACM, 2007.
+
+\bibitem{roschelle1995construction}
+Jeremy Roschelle and Stephanie~D Teasley.
+\newblock The construction of shared knowledge in collaborative problem
+  solving.
+\newblock In {\em Computer supported collaborative learning}, pages 69--97.
+  Springer, 1995.
+
+\bibitem{Rosmala2012}
+Dewi Rosmala et~al.
+\newblock Study of social networking usage in higher education environment.
+\newblock {\em Procedia-Social and Behavioral Sciences}, 67:156--166, 2012.
+
+\bibitem{Ro.zewski2011}
+Przemys{\l}aw R{\'o}{\.z}ewski.
+\newblock Model of community-build system for knowledge development.
+\newblock In {\em Computational Collective Intelligence. Technologies and
+  Applications}, pages 50--59. Springer, 2011.
+
+\bibitem{ecs2007}
+Melike Sah, Wendy Hall, Nicholas~M Gibbins, and David C~De Roure.
+\newblock Semport ? a personalized semantic portal.
+\newblock In {\em 18th ACM Conference on Hypertext and Hypermedia}, pages
+  31--32. Sheridan printing, 2007.
+
+\bibitem{sahoo2009survey}
+Satya~S. Sahoo, Wolfgang Halb, Sebastian Hellmann, Kingsley Idehen, Ted
+  Thibodeau~Jr, S{\"o}ren Auer, Juan Sequeda, and Ahmed Ezzat.
+\newblock A survey of current approaches for mapping of relational databases to
+  rdf.
+\newblock Rdb2rdf incubator group report, W3C, 2009.
+
+\bibitem{sahuguet2001everything}
+Arnaud Sahuguet.
+\newblock Everything you ever wanted to know about dtds, but were afraid to
+  ask.
+\newblock In {\em The World Wide Web and Databases}, pages 171--183. Springer,
+  2001.
+
+\bibitem{educause}
+Gail Salaway and Judy Caruso.
+\newblock The ecar study of undergraduate students and nformation technology.
+\newblock Technical report, 2008.
+
+\bibitem{DBLP:journals/software/SchaffertBBK08}
+Sebastian Schaffert, Fran\c{c}ois Bry, Joachim Baumeister, and Malte Kiesel.
+\newblock Semantic wikis.
+\newblock {\em IEEE Software}, 25(4):8--11, 2008.
+
+\bibitem{DBLP:conf/semwiki/SchaffertEGKRSS09}
+Sebastian Schaffert, Julia Eder, Szaby Gr{\"u}nwald, Thomas Kurz, Mihai
+  Radulescu, Rolf Sint, and Stephanie Stroka.
+\newblock Kiwi - a platform for semantic social software.
+\newblock In {\em SemWiki}, volume 464 of {\em CEUR Workshop Proceedings}.
+  CEUR-WS.org, 2009.
+
+\bibitem{Schmidt}
+Albrecht Schmidt, Florian Waas, Martin Kersten, Michael~J. Carey, Ioana
+  Manolescu, and Ralph Busse.
+\newblock Xmark: a benchmark for xml data management.
+\newblock In {\em VLDB}, pages 974--985, 2002.
+
+\bibitem{Serlin1978}
+RC~Serlin and HF~Kaiser.
+\newblock {A method for increasing the reliability of a short multiple-choice
+  test}.
+\newblock {\em Educational and Psychological Measurement}, 38(2):337--340,
+  1978.
+
+\bibitem{Shanmugasundaram}
+Jayavel Shanmugasundaram, Eugene Shekita, Rimon Barr, Michael Carey, Bruce
+  Lindsay, Hamid Pirahesh, and Berthold Reinwald.
+\newblock Efficiently publishing relational data as xml documents.
+\newblock {\em The VLDB Journal}, 10(2--3):133--154, 2001.
+
+\bibitem{he1999relational}
+Jayavel Shanmugasundaram, Kristin Tufte, Chun Zhang, Gang He, David~J. DeWitt,
+  and Jeffrey~F. Naughton.
+\newblock Relational databases for querying xml documents: Limitations and
+  opportunities.
+\newblock In {\em VLDB}, pages 302--314. Morgan Kaufmann, 1999.
+
+\bibitem{shepherd2000objects}
+Clive Shepherd.
+\newblock Objects of interest.
+\newblock {\em Brighton East Sussex: Fastrak Consulting Limited. Retrieved
+  June}, 14:2005, 2000.
+
+\bibitem{smith1995cooperative}
+Karl~A Smith.
+\newblock Cooperative learning: Effective teamwork for engineering classrooms.
+\newblock In {\em 2013 IEEE Frontiers in Education Conference (FIE)}, volume~1,
+  pages 2b5--13. IEEE, 1995.
+
+\bibitem{spanos2012bringing}
+Dimitrios-Emmanuel Spanos, Periklis Stavrou, and Nikolas Mitrou.
+\newblock Bringing relational databases into the semantic web: A survey.
+\newblock {\em Semantic Web}, 3(2):169--209, 2012.
+
+\bibitem{Strobel2008}
+Johannes Strobel, David~H Jonassen, and Ioan~Gelu Ionas.
+\newblock The evolution of a collaborative authoring system for non-linear
+  hypertext: A design-based research study.
+\newblock {\em Computers \& Education}, 51(1):67--85, 2008.
+
+\bibitem{surowiecki2005wisdom}
+James Surowiecki.
+\newblock {\em The wisdom of crowds}.
+\newblock Anchor, 2005.
+
+\bibitem{csedu_scoring}
+Darya Tarasowa and S{\"o}ren Auer.
+\newblock Balanced scoring method for multiple-mark questions.
+\newblock In {\em 5th International Conference on Computer Supported Education
+  (CSEDU 2013 )}, 2013.
+
+\bibitem{tarasowa2013balanced}
+Darya Tarasowa and S{\"o}ren Auer.
+\newblock Balanced scoring method for multiple-mark questions.
+\newblock In {\em CSEDU}, pages 411--416, 2013.
+
+\bibitem{russian_book}
+Darya Tarasowa and S{\"o}ren Auer.
+\newblock Collaborative authoring of opencourseware: The best practices and
+  complex solution.
+\newblock In {\em Open Data for Education}, pages 103--131. Springer
+  International Publishing, 2016.
+
+\bibitem{cosmec}
+Darya Tarasowa, S{\"o}ren Auer, Ali Khalili, and J{\"o}rg Unbehauen.
+\newblock Crowd-sourcing (semantically) structured multilingual educational
+  content (cosmec).
+\newblock {\em Open Praxis}, 6(2):159--170, 2014.
+
+\bibitem{kesw_slidewiki}
+Darya Tarasowa, Ali Khalili, and S{\"o}ren Auer.
+\newblock Crowdlearn: Collaborative engineering of (semi-)structured learning
+  objects.
+\newblock In {\em Proceedings of the KESW 2012}, 2012.
+
+\bibitem{paid_journal}
+Darya Tarasowa, Ali Khalili, and S{\"{o}}ren Auer.
+\newblock Crowdlearn: Crowd-sourcing the creation of highly-structured
+  e-learning content.
+\newblock {\em iJEP}, 5(4):47--54, 2015.
+
+\bibitem{csedu_slidewiki}
+Darya Tarasowa, Ali Khalili, S{\"o}ren Auer, and J{\"o}rg Unbehauen.
+\newblock Crowdlearn: Crowd-sourcing the creation of highly-structured
+  e-learning content.
+\newblock In {\em 5th International Conference on Computer Supported Education
+  (CSEDU 2013 )}, pages 33--42, 2013.
+
+\bibitem{rdb2rdf}
+Darya Tarasowa, Christoph Lange, and S{\"o}ren Auer.
+\newblock Measuring the quality of relational-to-rdf mappings.
+\newblock In {\em Proceedings of the KESW 2015}, pages 210--224, 2015.
+
+\bibitem{Tsai1993}
+FJ~Tsai and HK~Suen.
+\newblock {A brief report on a comparison of six scoring methods for multiple
+  true-false items}.
+\newblock {\em Educational and psychological measurement}, 53(2):399--404,
+  1993.
+
+\bibitem{tunkelang2009faceted}
+Daniel Tunkelang.
+\newblock Faceted search.
+\newblock {\em Synthesis lectures on information concepts, retrieval, and
+  services}, 1(1):1--80, 2009.
+
+\bibitem{unbehauen2012accessing}
+J{\"o}rg Unbehauen, Claus Stadler, and S{\"o}ren Auer.
+\newblock Accessing relational data on the web with sparqlmap.
+\newblock In {\em Semantic Technology}, pages 65--80. Springer, 2012.
+
+\bibitem{vanRijsbergen}
+C.J. Van~Rijsbergen.
+\newblock {\em Information Retrieval}.
+\newblock 1979.
+
+\bibitem{Vickery:2007:PWU:1554640}
+Graham Vickery and Sacha Wunsch-Vincent.
+\newblock {\em Participative Web And User-Created Content: Web 2.0 Wikis and
+  Social Networking}.
+\newblock Organization for Economic Cooperation and Development (OECD), Paris,
+  France, France, 2007.
+
+\bibitem{von2004labeling}
+Luis Von~Ahn and Laura Dabbish.
+\newblock Labeling images with a computer game.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, pages 319--326. ACM, 2004.
+
+\bibitem{wang2004extending}
+Chien-min Wang and David Turner.
+\newblock Extending the wiki paradigm for use in the classroom.
+\newblock In {\em Information Technology: Coding and Computing, 2004.
+  Proceedings. ITCC 2004. International Conference on}, volume~1, pages
+  255--259. IEEE, 2004.
+
+\bibitem{Wang2012}
+Xiangyu Wang, Peter~E.D. Love, Robert Klinc, Mi~Jeong Kim, and Peter~Rex Davis.
+\newblock Integration of e – learning 2.0 with web 2.0.
+\newblock {\em ITcon - Special Issue eLearning 2.0: Web 2.0-based social
+  learning in built environment}, 17:387--396, 2012.
+
+\bibitem{Wang2010}
+Zhao-hong Wang.
+\newblock The study of the educational resources sharing model based on grids.
+\newblock In {\em Database Technology and Applications (DBTA), 2010 2nd
+  International Workshop on}, pages 1--4. IEEE, 2010.
+
+\bibitem{wenger1998communities}
+Etienne Wenger.
+\newblock {\em Communities of practice: Learning, meaning, and identity}.
+\newblock Cambridge university press, 1998.
+
+\bibitem{woods2009myth}
+D~Woods.
+\newblock The myth of crowdsourcing: Crowds don’t innovate--individuals do,
+  2009.
+
+\bibitem{Zaveri}
+Amrapali Zaveri, Anisa Rula, Andrea Maurino, Ricardo Pietrobon, Jens Lehmann,
+  and S{\"o}ren Auer.
+\newblock Quality assessment methodologies for linked open data.
+\newblock Semantic Web Journal, major revision, 2013.
+
+\bibitem{Zhang2007}
+Hong Zhang and Hongjun Su.
+\newblock A collaborative system for software engineering education.
+\newblock In {\em Computer Software and Applications Conference, 2007. COMPSAC
+  2007. 31st Annual International}, volume~2, pages 313--318. IEEE, 2007.
+
+\end{thebibliography}

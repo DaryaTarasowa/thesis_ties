@@ -1,0 +1,729 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: MAIN_THESIS.aux
+The style file: plain.bst
+A level-1 auxiliary file: thesis_acknowledge.aux
+A level-1 auxiliary file: thesis_appendix.aux
+Illegal, another \bibstyle command---line 453 of file MAIN_THESIS.aux
+ : \bibstyle
+ :          {plainnat}
+I'm skipping whatever remains of this command
+Database file #1: ../refs/thesis.bib
+Warning--entry type for "Erling2008" isn't style-file defined
+--line 39 of file ../refs/thesis.bib
+Warning--entry type for "Auer2010" isn't style-file defined
+--line 47 of file ../refs/thesis.bib
+Repeated entry---line 227 of file ../refs/thesis.bib
+ : @article{Ripkey1996
+ :                    ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 465 of file ../refs/thesis.bib
+ : 
+ : @book{marcotte2013responsive,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 571 of file ../refs/thesis.bib
+ : @article{Bauer2011
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 588 of file ../refs/thesis.bib
+ : @article{Frisbie1992
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 608 of file ../refs/thesis.bib
+ : @article{Pomplun1997
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 622 of file ../refs/thesis.bib
+ : @book{Itten1997
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 629 of file ../refs/thesis.bib
+ : @article{Dressel1953
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 640 of file ../refs/thesis.bib
+ : @article{Farthing1998
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 651 of file ../refs/thesis.bib
+ : @article{Hohensinn2011
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 665 of file ../refs/thesis.bib
+ : @article{Cronbach
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 673 of file ../refs/thesis.bib
+ : @article{Jiao2012
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 684 of file ../refs/thesis.bib
+ : @article{Ben-Simon1997
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 699 of file ../refs/thesis.bib
+ : @article{Serlin1978
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 710 of file ../refs/thesis.bib
+ : @article{Morgan1979
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 732 of file ../refs/thesis.bib
+ : @article{Tsai1993
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1269 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/wikis/HaakeLS05
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1312 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/icsoft/MatthesNS11
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1334 of file ../refs/thesis.bib
+ : @incollection{DBLP:reference/ai/PedreiraSC09
+ :                                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1369 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/semwiki/SchaffertEGKRSS09
+ :                                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1431 of file ../refs/thesis.bib
+ : @article{DBLP:journals/ile/BarriocanalSAL11
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1443 of file ../refs/thesis.bib
+ : @article{DBLP:journals/ijswis/BizerS09
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1568 of file ../refs/thesis.bib
+ : @book{Devedzic:2006:SWE:1177224
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1675 of file ../refs/thesis.bib
+ : @incollection{heino-n-2009-61-a
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1708 of file ../refs/thesis.bib
+ : @article{smw:jws07
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1717 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/iadis/KuoTKHLC08
+ :                                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1728 of file ../refs/thesis.bib
+ : @book{LeufCunningham2001
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1742 of file ../refs/thesis.bib
+ : @techreport{bechhofer2004owl
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1750 of file ../refs/thesis.bib
+ : @techreport{sahoo2009survey
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1758 of file ../refs/thesis.bib
+ : @online{Erling2008
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1766 of file ../refs/thesis.bib
+ : @online{Auer2010
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1774 of file ../refs/thesis.bib
+ : @inproceedings{hillairet2008mde
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1782 of file ../refs/thesis.bib
+ : @techreport{direct_mapping
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1791 of file ../refs/thesis.bib
+ : @techreport{r2rml
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1800 of file ../refs/thesis.bib
+ : @article{spanos2012bringing
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1810 of file ../refs/thesis.bib
+ : @inproceedings{Bertails_2011
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1825 of file ../refs/thesis.bib
+ : @unpublished{Zaveri
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1835 of file ../refs/thesis.bib
+ : @phdthesis{bizer2007quality
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1857 of file ../refs/thesis.bib
+ : @mastersthesis{flemming
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1866 of file ../refs/thesis.bib
+ : @inproceedings{hogan2010weaving
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1891 of file ../refs/thesis.bib
+ : @article{hogan2012empirical
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1900 of file ../refs/thesis.bib
+ : @article{Shanmugasundaram
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1989 of file ../refs/thesis.bib
+ : @inproceedings{Schmidt
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1999 of file ../refs/thesis.bib
+ : @inproceedings{he1999relational
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2014 of file ../refs/thesis.bib
+ : @incollection{liu2006designing
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2040 of file ../refs/thesis.bib
+ : @inproceedings{sahuguet2001everything
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2049 of file ../refs/thesis.bib
+ : @book{euzenat2007ontology
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2056 of file ../refs/thesis.bib
+ : @book{vanRijsbergen
+ :                    ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 2078 of file ../refs/thesis.bib
+ : 
+ : @INCOLLECTION{SUS2009,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2078 of file ../refs/thesis.bib
+ : @incollection{SUS2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2173 of file ../refs/thesis.bib
+ : @article{DBLP:journals/software/SchaffertBBK08
+ :                                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2335 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/semwiki/2009
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2346 of file ../refs/thesis.bib
+ : @book{DBLP:reference/ai/2009
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2400 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/wikis/2005
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2445 of file ../refs/thesis.bib
+ : @incollection{DBLP:reference/ai/PedreiraSC09
+ :                                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2457 of file ../refs/thesis.bib
+ : @book{DBLP:reference/ai/2009
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2480 of file ../refs/thesis.bib
+ : @techreport{kitchenham2004
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2492 of file ../refs/thesis.bib
+ : @book{LeufCunningham2001
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2506 of file ../refs/thesis.bib
+ : @article{smw:jws07
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2516 of file ../refs/thesis.bib
+ : @incollection{heino-n-2009-61-a
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2541 of file ../refs/thesis.bib
+ : @book{Devedzic:2006:SWE:1177224
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2550 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/iadis/KuoTKHLC08
+ :                                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2564 of file ../refs/thesis.bib
+ : @article{DBLP:journals/ile/BarriocanalSAL11
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2588 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/wikis/HaakeLS05
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2599 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/wikis/2005
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2610 of file ../refs/thesis.bib
+ : @article{DBLP:journals/software/SchaffertBBK08
+ :                                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2622 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/semwiki/SchaffertEGKRSS09
+ :                                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2632 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/semwiki/2009
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2644 of file ../refs/thesis.bib
+ : @article{DBLP:journals/ijswis/BizerS09
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2763 of file ../refs/thesis.bib
+ : @incollection{SUS2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2803 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/icsoft/MatthesNS11
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2813 of file ../refs/thesis.bib
+ : @techreport{bechhofer2004owl
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2821 of file ../refs/thesis.bib
+ : @techreport{sahoo2009survey
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2829 of file ../refs/thesis.bib
+ : @online{Erling2008
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2837 of file ../refs/thesis.bib
+ : @online{Auer2010
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2845 of file ../refs/thesis.bib
+ : @inproceedings{hillairet2008mde
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2853 of file ../refs/thesis.bib
+ : @techreport{direct_mapping
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2862 of file ../refs/thesis.bib
+ : @techreport{r2rml
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2871 of file ../refs/thesis.bib
+ : @article{spanos2012bringing
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2881 of file ../refs/thesis.bib
+ : @inproceedings{Bertails_2011
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2896 of file ../refs/thesis.bib
+ : @unpublished{Zaveri
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2906 of file ../refs/thesis.bib
+ : @phdthesis{bizer2007quality
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2928 of file ../refs/thesis.bib
+ : @mastersthesis{flemming
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2937 of file ../refs/thesis.bib
+ : @inproceedings{hogan2010weaving
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2945 of file ../refs/thesis.bib
+ : @article{hogan2012empirical
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2954 of file ../refs/thesis.bib
+ : @article{Shanmugasundaram
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2970 of file ../refs/thesis.bib
+ : @inproceedings{Schmidt
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2980 of file ../refs/thesis.bib
+ : @inproceedings{he1999relational
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2995 of file ../refs/thesis.bib
+ : @incollection{liu2006designing
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3014 of file ../refs/thesis.bib
+ : @inproceedings{sahuguet2001everything
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3023 of file ../refs/thesis.bib
+ : @book{euzenat2007ontology
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3030 of file ../refs/thesis.bib
+ : @book{vanRijsbergen
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3072 of file ../refs/thesis.bib
+ : @techreport{scorm_specification2011
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3079 of file ../refs/thesis.bib
+ : @techreport{scorm2011
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3133 of file ../refs/thesis.bib
+ : @techreport{scorm_specification2011
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3140 of file ../refs/thesis.bib
+ : @techreport{scorm2011
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3148 of file ../refs/thesis.bib
+ : @techreport{Melon2004
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3193 of file ../refs/thesis.bib
+ : @incollection{DBLP:reference/ai/PedreiraSC09
+ :                                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3205 of file ../refs/thesis.bib
+ : @book{DBLP:reference/ai/2009
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3224 of file ../refs/thesis.bib
+ : @techreport{kitchenham2004
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3236 of file ../refs/thesis.bib
+ : @book{LeufCunningham2001
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3250 of file ../refs/thesis.bib
+ : @article{smw:jws07
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3260 of file ../refs/thesis.bib
+ : @incollection{heino-n-2009-61-a
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3279 of file ../refs/thesis.bib
+ : @book{Devedzic:2006:SWE:1177224
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3288 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/iadis/KuoTKHLC08
+ :                                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3302 of file ../refs/thesis.bib
+ : @article{DBLP:journals/ile/BarriocanalSAL11
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3326 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/wikis/HaakeLS05
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3337 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/wikis/2005
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3348 of file ../refs/thesis.bib
+ : @article{DBLP:journals/software/SchaffertBBK08
+ :                                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3360 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/semwiki/SchaffertEGKRSS09
+ :                                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3370 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/semwiki/2009
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3382 of file ../refs/thesis.bib
+ : @article{DBLP:journals/ijswis/BizerS09
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3582 of file ../refs/thesis.bib
+ : @proceedings{sahar_vahdati_2015_14756
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3653 of file ../refs/thesis.bib
+ : @incollection{SUS2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3700 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/icsoft/MatthesNS11
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3734 of file ../refs/thesis.bib
+ : @incollection{SUS2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3757 of file ../refs/thesis.bib
+ : @incollection{DBLP:reference/ai/PedreiraSC09
+ :                                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3776 of file ../refs/thesis.bib
+ : @techreport{bechhofer2004owl
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3784 of file ../refs/thesis.bib
+ : @techreport{sahoo2009survey
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3792 of file ../refs/thesis.bib
+ : @online{Erling2008
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3800 of file ../refs/thesis.bib
+ : @online{Auer2010
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3808 of file ../refs/thesis.bib
+ : @inproceedings{hillairet2008mde
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3816 of file ../refs/thesis.bib
+ : @techreport{direct_mapping
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3825 of file ../refs/thesis.bib
+ : @techreport{r2rml
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3834 of file ../refs/thesis.bib
+ : @article{spanos2012bringing
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3844 of file ../refs/thesis.bib
+ : @inproceedings{Bertails_2011
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3859 of file ../refs/thesis.bib
+ : @unpublished{Zaveri
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3869 of file ../refs/thesis.bib
+ : @phdthesis{bizer2007quality
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3891 of file ../refs/thesis.bib
+ : @mastersthesis{flemming
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3900 of file ../refs/thesis.bib
+ : @inproceedings{hogan2010weaving
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3908 of file ../refs/thesis.bib
+ : @article{hogan2012empirical
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3917 of file ../refs/thesis.bib
+ : @article{Shanmugasundaram
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3933 of file ../refs/thesis.bib
+ : @inproceedings{Schmidt
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3943 of file ../refs/thesis.bib
+ : @inproceedings{he1999relational
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3958 of file ../refs/thesis.bib
+ : @incollection{liu2006designing
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3977 of file ../refs/thesis.bib
+ : @inproceedings{sahuguet2001everything
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3986 of file ../refs/thesis.bib
+ : @book{euzenat2007ontology
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3993 of file ../refs/thesis.bib
+ : @book{vanRijsbergen
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4051 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/wikis/HaakeLS05
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4084 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/icsoft/MatthesNS11
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4106 of file ../refs/thesis.bib
+ : @incollection{DBLP:reference/ai/PedreiraSC09
+ :                                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4140 of file ../refs/thesis.bib
+ : @article{DBLP:journals/software/SchaffertBBK08
+ :                                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4148 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/semwiki/SchaffertEGKRSS09
+ :                                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4202 of file ../refs/thesis.bib
+ : @article{DBLP:journals/ile/BarriocanalSAL11
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4214 of file ../refs/thesis.bib
+ : @article{DBLP:journals/ijswis/BizerS09
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4248 of file ../refs/thesis.bib
+ : @book{Devedzic:2006:SWE:1177224
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4293 of file ../refs/thesis.bib
+ : @incollection{heino-n-2009-61-a
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4326 of file ../refs/thesis.bib
+ : @article{smw:jws07
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4335 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/iadis/KuoTKHLC08
+ :                                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4346 of file ../refs/thesis.bib
+ : @book{LeufCunningham2001
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4360 of file ../refs/thesis.bib
+ : @incollection{SUS2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4452 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/icsoft/2011-1
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4519 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/semwiki/2009
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4530 of file ../refs/thesis.bib
+ : @book{DBLP:reference/ai/2009
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4584 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/wikis/2005
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4647 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/wikis/HaakeLS05
+ :                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4669 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/icsoft/MatthesNS11
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4691 of file ../refs/thesis.bib
+ : @incollection{DBLP:reference/ai/PedreiraSC09
+ :                                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4715 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/semwiki/SchaffertEGKRSS09
+ :                                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4750 of file ../refs/thesis.bib
+ : @article{DBLP:journals/ijswis/BizerS09
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4793 of file ../refs/thesis.bib
+ : @book{Devedzic:2006:SWE:1177224
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4847 of file ../refs/thesis.bib
+ : @article{smw:jws07
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4858 of file ../refs/thesis.bib
+ : @book{LeufCunningham2001
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4872 of file ../refs/thesis.bib
+ : @incollection{SUS2009
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4940 of file ../refs/thesis.bib
+ : @article{DBLP:journals/software/SchaffertBBK08
+ :                                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4965 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/icsoft/2011-1
+ :                                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5004 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/semwiki/2009
+ :                                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5027 of file ../refs/thesis.bib
+ : @book{DBLP:reference/ai/2009
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5037 of file ../refs/thesis.bib
+ : @proceedings{DBLP:conf/wikis/2005
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5240 of file ../refs/thesis.bib
+ : @inproceedings{DBLP:conf/iadis/KuoTKHLC08
+ :                                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5267 of file ../refs/thesis.bib
+ : @article{DBLP:journals/ile/BarriocanalSAL11
+ :                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5367 of file ../refs/thesis.bib
+ : @incollection{heino-n-2009-61-a
+ :                                ,
+I'm skipping whatever remains of this entry
+Database file #2: ../refs/standard_refs-bibtex.bib
+Database file #3: ../refs/literature_review.bib
+Repeated entry---line 1004 of file ../refs/literature_review.bib
+ : @techreport{Kitchenham2004
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1719 of file ../refs/literature_review.bib
+ : @inproceedings{tarasowa2013balanced
+ :                                    ,
+I'm skipping whatever remains of this entry
+Database file #4: ../refs/mypub.bib
+A bad cross reference---entry "Burel2009"
+refers to entry "CEUR-WS.org/Vol-449", which doesn't exist
+Warning--I didn't find a database entry for "CEUR-WS.org/Vol-449"
+Warning--to sort, need editor, organization, or key in sahar_vahdati_2015_14756
+Warning--to sort, need author or key in scorm_specification2011
+Warning--to sort, need author or key in scorm2011
+Warning--empty author in scorm_specification2011
+Warning--empty author in scorm2011
+Warning--can't use both volume and number fields in andersen2007web
+Warning--empty booktitle in Burel2009
+Warning--empty institution in unesco
+Warning--empty journal in hall2009towards
+Warning--empty year in hillairet2008mde
+Warning--there's a number but no volume in hirth2011human
+Warning--empty journal in khalili2014semantics
+Warning--empty journal in klugman2010human
+Warning--empty institution in educause
+Warning--empty publisher in vanRijsbergen
+(There were 175 error messages)
