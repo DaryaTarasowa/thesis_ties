@@ -163,6 +163,6 @@
 \contentsline {section}{\numberline {C.1}R2RML mapping representation}{113}{section.C.1}
 \contentsline {section}{\numberline {C.2}Tabular mapping representation}{127}{section.C.2}
 \contentsline {section}{\numberline {C.3}SlideWiki knowledge graph}{127}{section.C.3}
-\contentsline {chapter}{Bibliography}{133}{appendix*.59}
-\contentsline {chapter}{List of Figures}{143}{appendix*.60}
-\contentsline {chapter}{List of Tables}{145}{appendix*.61}
+\contentsline {chapter}{\nonumberline Bibliography}{133}{chapter*.59}
+\contentsline {chapter}{\nonumberline List of Figures}{143}{chapter*.60}
+\contentsline {chapter}{\nonumberline List of Tables}{145}{chapter*.61}
