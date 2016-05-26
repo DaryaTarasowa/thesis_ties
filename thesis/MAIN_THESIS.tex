@@ -19,9 +19,9 @@
 % Instead of colouring  links, cites, table of contents etc.
 % put them in a coloured box for the screen version.
 % This is probably a good idea when you print your thesis.
-% \hypersetup{colorlinks=false,
-%   linkbordercolor=blue,citebordercolor=magenta,urlbordercolor=darkgreen
-% }
+ \hypersetup{colorlinks=false,
+   linkbordercolor=blue,citebordercolor=magenta,urlbordercolor=darkgreen
+ }
 
 %------------------------------------------------------------------------------
 % When writing your thesis it is often helpful to have the date and
@@ -66,8 +66,8 @@
 %\usepackage{colortbl} % colored cells in tables
 %\usepackage[utf8]{inputenc}
 %\usepackage{diagbox}
-%%\MakeAutoQuote{“}{”}
-%%\MakeAutoQuote*{‘}{’}
+%\MakeAutoQuote{“}{”}
+%\MakeAutoQuote*{‘}{’}
 %\usepackage{enumerate}
 %\usepackage{epsfig}
 %\usepackage{geometry}
@@ -180,12 +180,12 @@
 %------------------------------------------------------------------------------
 % Give a list of directories where figures can be found. Do not leave
 % any spaces in the list and end the directory name with a /
-\graphicspath{%
-  {../figs/},%
-  {../figs/cover/},%
-  {../figs/graphics/},%
-  {../feynmf/}%
-}
+%\graphicspath{%
+%  {../figs/},%
+%  {../figs/cover/},%
+%  {../figs/graphics/},%
+%  {../feynmf/}%
+%}
 
 %------------------------------------------------------------------------------
 % Make a glossary and a list of acronyms
@@ -218,7 +218,7 @@
 % Start counting pages from the title page
 \frontmatter
 % Dedication has to come before \maketitle
-% \dedication{For ...}
+ \dedication{For my mother}
 
 %------------------------------------------------------------------------------
 % PhD Title page
@@ -3551,6 +3551,7 @@ We have implemented and evaluated the developed concepts within a mid-size proof
 The application deals with two types of structured OERs: slide sets and self-assessment item sets attached to the slides.
 Both content types can be operated collaboratively, with enchanted possibilities for cross-lingual reuse and repurpose.  
 The results of the evaluation showed us that the developed concepts do work together with a synergistic effect, even though the implementation lacked technical maturity.
+The SlideWiki platform 
 
 Although many of the techniques employed by SlideWiki (e.g. crowdsourcing, semi-automatic translation, semantic structuring, cloud-computing) are well-known, their combination and tailored application for OpenCourseWare authoring is novel and innovative:
 \begin{itemize}
@@ -3575,12 +3576,29 @@ SlideWiki can help to make the knowledge available in a company easily accessibl
 In addition to the public SlideWiki portal companies can install and run a SlideWiki instance inside their corporate Intranet with access control.
 \end{itemize}
 
-Due to these innovations SlideWiki won the OpenCourseWare Consortium’s Excellence Award in 2014 and is already used by hundreds of educators and thousands of learners.
+Due to these innovations SlideWiki won the OpenCourseWare Consortium’s Excellence Award in 2014 (see~\autoref{fig:ocw_global_award}) and is already used by hundreds of educators and thousands of learners.
 Several hundred comprehensive course materials are available on SlideWiki in dozens of languages.
-The maturity and innovative nature of the concepts behind SlideWiki allowed us to further develop and extend the platform in scope of EU funded project.
+The maturity and innovative nature of the concepts behind SlideWiki allows us to claim that the gaps found in the domain are filled with the SlideWiki platform, as shown at~\autoref{fig:slidewiki_place_2}.
+
+
+\begin{figure}
+\centering
+\includegraphics[width=\columnwidth]{images/filled_spot.png}
+\caption{Collaborative authoring platforms in various domains}
+\label{fig:slidewiki_place_2}
+\end{figure}
+
+In order to extend the trial SlideWiki implementation to a large scale we will further develop and enhance the platform in scope of EU funded project.
 In order to turn SlideWiki into a large-scale European platform the consortium of 17 European educational and research organizations will collaborate on all aspects of the development, management and evaluation. 
 The consortium along with its European and international partner organizations is committed to support and sustain SlideWiki.
 As well, it aims to rise the community awareness for an easy-to-use and barrier-free possibility for the creation of Open Educational content that can be shared, mixed and re-edited across platforms and device borders.
+
+\begin{figure}
+\centering
+\includegraphics[width=\columnwidth]{images/award.jpg}
+\caption{The certificate of the OpenCourseWare Consortium’s Excellence Award for SlideWiki}
+\label{fig:ocw_global_award}
+\end{figure}
 
 %In this project, the consortium aims to further mature, advance and validate the SlideWiki platform and to integrate it with complementary tools, services and solutions such as Massive Open Online Course (MOOC) platforms and Learning Content Management Systems (LCMS).
 %In particular we will pursue the following objectives:
