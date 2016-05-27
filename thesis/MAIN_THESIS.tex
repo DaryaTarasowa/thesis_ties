@@ -218,7 +218,7 @@
 % Start counting pages from the title page
 \frontmatter
 % Dedication has to come before \maketitle
- \dedication{For my mother}
+ \dedication{For Siberia, which gave me my spirit and for my mom, who taught me how to govern it}
 
 %------------------------------------------------------------------------------
 % PhD Title page
@@ -834,7 +834,7 @@ Within the functions of Social Networking there are three most beneficial for th
 
 \paragraph{Support for conversational interaction.}
 The conversational interaction of users during the content development is an essential feature of collaborative authoring tool.
-\todo{importance of content negotiation}
+This is especially true for large-scale collaboration, when authors with different cultural and educational background are involved in the process.
 In scope of our research we are focused mainly on the text-based communication channels, however the major principles can be applied to voice- and video- tools as well.
 There are two major types of tools enabling communication and discussions between users: 
 \begin{enumerate}
@@ -848,9 +848,9 @@ On the other hand, the educators have found asynchronous communication to be hel
 Both types of communication have their disadvantages, however. Disadvantages of synchronous communication include: getting colleges online at the same time, difficulty in moderating large-scale conversations, lack of reflection time for collaborators, and intimidation of poor typists.
 Educators also cited the limitations of asynchronous communication: lack of immediate feedback, collaborators not checking in often enough, length of time necessary for discussion to mature, and feeling a sense of social disconnection.
 
+An important requirement for content negotiation supporting the content development is that all conversations have to be attached to exact content pieces they refer to.
+Thus, if a content piece is being reused or repurposed, the previously discussed questions do not arise again.
 
-
-\todo{attach conversations to the content}
 \paragraph{Support for social feedback.}
 Ability of any reader to leave a feedback in easy and fast way is one of the distinguishing features of social networking sites.
 Moreover, the feedback itself (usually only positive) becomes a part of the user-generated content it refers to, letting other users judge the level of quality/actuality of the content.
@@ -1354,7 +1354,10 @@ Total&30&18&5&13&9&10&5&26&4&10&28&10&3&3&65 \\
 
 \end{landscape}
 
-\todo{discuss the matrix}
+As it can be seen from the matrix, the research in the field is mostly concentrated along certain topics, while almost ignoring other ones. 
+Thus, while 30 papers discussed the content authoring related topics, only five of them mentioned specific of assessment items authoring.
+Another good example is the content authoring techniques: while 16 papers discussed using wiki technology for content authoring, only three papers researched the usage of AI methods to support the process.
+Almost no research considers remixing of the content pieces, even though this functionality is distinguishing feature of OER concept.
 Such paper distribution shows us the lack of deep detailed research on the field.
 Only the major aspects are well covered, while the supporting but still crucial aspects such as user engagement of content repurpose are mostly not taken in consideration.
 In other words, the researches are re-inventing the wheel or polishing the existing approaches instead of focusing on solving particular crucial issues preventing the OER movement from full success.
@@ -2099,9 +2102,13 @@ Thus, the knowledge is being created not only explicitly by contributors, but al
 In order the CrowdLearn concept to be efficient in the real life, it has to support the content migration between different Learning Management Systems.
 However, often content migration is not completely adequate and can thus result in loss of valuable content, metadata or structure.
 Even if the transfer is possible, moving the content between systems can be more costly than just redeveloping that course in the new system.
-The strategy to overcome this challenge is the standard-compliance of both LMS and content.
+
+The first possible strategy to overcome this challenge is the standard-compliance of both LMS and content.
 During our research on the available content and metadata formats we have decided to adopt the \emph{SCORM standard}~\cite{scorm_specification2011} and practical recommendations~\cite{scorm2011}, expanding the standard to support the collaborative model of content creation (see \autoref{sec:SCORM}).
-\todo{add about Linked Data}
+The other strategy is to use an intermediary format to proceed the migration.
+For example, Linked Data is proven to perform well in the educational domain~\cite{guy2014linkedup}.  
+We present our Linked Data model in~\autoref{sec:data_model_rdf}, and in~\autoref{sec:RDB2RDF} we describe the process of content transformation into RDF triples in detail.
+
 
 
 \section{WikiApp Data Model}
@@ -2253,10 +2260,7 @@ Thus, in order to function efficiently, the mechanism of \emph{co-evolution} req
 	\label{fig:double}
 \end{figure}
 
-The issues of the mechanism implementation we have discovered and solved during example implementation are presented in~\autoref{sec:multilinguality_impl}, while the implementation in pseudocode is listed and discussed below.
-
-
-\todo{describe}
+The issues of the mechanism implementation we have discovered and solved during example implementation are presented in~\autoref{sec:multilinguality_impl}, while the implementation in pseudocode is listed below.
 
 
 \begin{lstlisting}
@@ -2585,7 +2589,7 @@ Translation\_cronjobs & describes translation jobs to be sent to external transl
  
 
 \subsubsection{Data Model for RDF}
-\label{subsec:data_model_rdf}
+\label{sec:data_model_rdf}
 
 In order the OER movement to fully success, the OERs have to be searchable and re-usable, in other words the interoperable.
 In order to ensure the interoperability, a number of competing approaches, metadata schemas and interface mechanisms was developed the last decade. 
