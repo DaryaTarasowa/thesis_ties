@@ -490,35 +490,35 @@ In this section we briefly describe the strategies underlying our approach.
 
 \subsection{Content Reusability and Interoperability}
 \label{sec:content_reusability_structuring}
-The paradigm of \emph{Open Educational Resources} supposes the creation and sharing of reusable, re-purposable learning objects, annotated by standardized metadata.
-Only learning objects that satisfy those requirements can be (re-)combined in maintainable high-quality OCW.
-In order to achieve the high levels of learning objects searchability, reusability and interoperability the content has to be structured, annotated by standard metadata and  published on the web in an efficient manner.
-However, the state-of-art approaches in learning objects development and publishing often do not satisfy those requirements.
-Usage of different, often proprietary content formats and system architectures prevents effective migration of content between platforms; lack of structuring makes the repurposing of smaller content pieces impossible; plain-text metadata limits the searchability.
+The paradigm of \emph{Open Educational Resources} supposes the creation and sharing of reusable and re-purposable learning objects, annotated by standardized metadata.
+Only learning objects that satisfy these requirements can be (re-)combined in maintainable high-quality OCW.
+In order to achieve high levels of learning objects, searchability, reusability and interoperability of the content has to be structured, annotated by standard metadata, and  published on the web in an efficient manner.
+However, the state-of-art approaches in learning objects development and publishing often do not satisfy these requirements.
+Usage of different, often proprietary, content formats and system architectures prevents effective migration of content between platforms; lack of structuring makes the repurposing of smaller content pieces impossible; and plain-text metadata limits the searchability.
 
-In order to deal with the issues we propose to use widely accepted content formats together with generous data models enabling fine-grained content structuring and efficient collaboration on it.
-Our approach deals with learning objects in a form of HTML-snippets organized in tree structure.
+In order to deal with these issues we propose the use of widely accepted content formats together with generous data models enabling fine-grained content structuring and efficient collaboration on it.
+Our approach deals with learning objects in the form of HTML-snippets organized in tree structure.
 Each branch of the tree as well as each leaf is an individual learning object annotated by metadata and it can be cut, copied or changed without updating the rest of the tree.
 The data model we have developed in order to organize the content in such a way is called WikiApp.
-The model supports all operations necessary for collaboration on the structured content, including social networking and version control actions.
-In the~\autoref{sec:wikiapp} we introduce the model in details.
-We have chosen HTML format for the content not only due to its generosity, but as well due to the recently developed technologies of the HTML-content annotating and publishing.
-To be published on existing e-learning platforms, the HTML format can be transformed in a number of common e-learning formats automatically or with moderately low effort.
-For example, we have implemented the automatic content transformation into the SCORM packages, discussed in~\autoref{sec:SCORM}.
+This model supports all operations necessary for collaboration on the structured content; including social networking and version control actions.
+In ~\autoref{sec:wikiapp} we introduce this model in detail.
+We have chosen HTML format for the content not only because of its generosity, but also because of the recently developed technologies of HTML-content annotating and publishing.
+To be published on existing e-learning platforms, the HTML format can be transformed in a number of common e-learning formats automatically or with reasonably low effort.
+We have, for example, implemented automatic content transformation into SCORM packages, discussed in more detail in~\autoref{sec:SCORM}.
 
-The content structured and organized in the proposed way can be transformed into machine-readable formats, such as Linked Data.
-The Semantic Web and Linked Data movements with the aim of creating, publishing and interconnecting machine readable information have gained traction in the last years (cf. \emph{LODStats}\footnote{\url{http://stats.lod2.eu}}).
+Content, structured and organized in the way described above, can be transformed into machine-readable formats such as Linked Data.
+The Semantic Web and Linked Data movements, with the aim of creating, publishing and interconnecting machine readable information, have gained traction in the last years (cf. \emph{LODStats}\footnote{\url{http://stats.lod2.eu}}).
 
-Making content machine-readable provides a wide list of advantages compared to not machine-readable formats~\cite{khalili2014semantics}:
+Making content machine-readable provides a wide list of advantages compared to non machine-readable formats~\cite{khalili2014semantics}:
 \begin{itemize}
-\item For \emph{search and retrieval} enriching documents with semantic representations helps to create more efficient and effective search interfaces, such as faceted search~\cite{tunkelang2009faceted} or question answering~\cite{Lopez2011}.
-\item In \emph{information presentation} semantically enriched documents can be used to create more sophisticated ways of flexibly visualizing information, such as by means of semantic overlays as described in~\cite{Burel2009}.
-\item For \emph{information integration} semantically enriched documents can be used to provide unified views on heterogeneous data stored in different applications by creating composite applications such as semantic mashups~\cite{ankolekar2007two}.
-\item To realize \emph{personalization}, semantic documents provide customized and context-specific information which better fits user needs and will result in delivering customized applications such as personalized semantic portals~\cite{ecs2007}.
-\item For \emph{reusability} and \emph{interoperability} enriching documents with semantic representations (e.g. using the Dublin Core vocabularies\footnote{\url{http://dublincore.org/}}) facilitates exchanging content between disparate systems and enables building applications such as executable papers~\cite{Muller2011}.
+\item For \emph{search and retrieval}: enriching documents with semantic representations helps to create more efficient and effective search interfaces, such as faceted search~\cite{tunkelang2009faceted} or question answering~\cite{Lopez2011}.
+\item In \emph{information presentation}: semantically enriched documents can be used to create more sophisticated ways of flexibly visualizing information, for example by means of semantic overlays as described in~\cite{Burel2009}.
+\item For \emph{information integration}: semantically enriched documents can be used to provide unified views on heterogeneous data, stored in different applications by creating composite applications such as semantic mashups~\cite{ankolekar2007two}.
+\item To realize \emph{personalization}: semantic documents provide customized and context-specific information, which better fits user needs and will result in delivering customized applications such as personalized semantic portals~\cite{ecs2007}.
+\item For \emph{reusability} and \emph{interoperability}: enriching documents with semantic representations (e.g. using the Dublin Core vocabularies\footnote{\url{http://dublincore.org/}}) facilitates content exchange between disparate systems and enables the building of applications such as executable papers~\cite{Muller2011}.
 \end{itemize}
 
-In order to perform the transformation we use RDB2RDF~\footnote{\url{https://www.w3.org/standards/techs/rdb2rdf}} approach, allowing to convert the relational data to linked data format directly from the database with ability to customize the output data model.
+In order to perform the transformation we use the RDB2RDF~\footnote{\url{https://www.w3.org/standards/techs/rdb2rdf}} approach, which allows us to convert relational data to a linked data format directly from the database, including the ability to customize the output data model.
 We discuss semantic publishing and describe our approach for content conversion in~\autoref{sec:content_migration}.
 
 
