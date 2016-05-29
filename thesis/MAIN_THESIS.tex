@@ -575,36 +575,38 @@ In this manner, the content versions in different languages can be (semi-)automa
 \chapter{Collaborative authoring on the Web}
 
 %==============================================================================
-\epigraph{(...) people need to be creative. They want to be able to record what they think. They want to be able to, if they see something wrong go and fix it.}{Tim Berners-Lee}
+\epigraph{(...) people need to be creative. They want to be able to record what they think. They want to be able to, if they see something wrong, go and fix it.}{Tim Berners-Lee}
 
 
 \todo{introduction}
 
-In the chapter we give an overview of the technologies and paradigms underlying our research.
-Namely, we discuss crowdsourcing, social networking and wiki technology.
-We give the (various) formal definitions for the basic terms, as well as summarize the known benefits, limitations and controversies of the paradigms.
+In this chapter we give an overview of the technologies and paradigms underlying our research.
+We will discuss crowdsourcing, social networking and wiki technology.
+We will give the (various) formal definitions of the basic terms, as well as summarize the known benefits, limitations and controversies of these paradigms.
 
 \section{Crowdsourcing}
-The examples of what is now called crowdsourcing can be found far back in the humankind history.
-According to the timeline presented in~\cite{dawson2012getting} the first documented action that can be categorized as a crowdsourcing has taken place in 1711 in Great Britain, when the British government was trying to find a way to measure a ship’s longitude.
-They offered the public a monetary prize to whomever came up with the best solution, which resulted in collaborative discussion and sharing ideas between previously unrelated people.
+Examples of what is now called crowdsourcing can be found far back in the history of humankind.
+According to the timeline presented in~\cite{dawson2012getting} the first documented action that can be categorized as crowdsourcing has taken place in 1711 in Great Britain, when the British government was trying to find a way to measure a ship’s longitude.
+They offered the public a monetary prize to whomever came up with the best solution, which resulted in collaborative discussion and sharing of ideas between previously unrelated people.
 
-Nowadays the crowdsourcing projects are mostly initiated on web-based platforms.
-Although the crowdsourcing can be applied to a wide range of tasks, in the scope of our research we focus on the tasks (activities) related to all aspects of content development.
-In the section we summarized the formal term definitions we rely on and discuss the influence of crowdsourcing onto the content developing process.
+Nowadays, crowdsourcing projects are mostly initiated on web-based platforms.
+Although crowdsourcing can be applied to a wide range of tasks, in the scope of our research we focus on the tasks (activities) related to all aspects of content development.
+In the next section we will summarize the formal term definitions we rely on and discuss the influence of crowdsourcing on the content development process.
 
 
 \subsection{Definitions}
 \label{sec:crowdsourcing_def}
-The specific definitions for the crowdsourcing are yet heavily debated.~\cite{estelles2012towards}
+At present, the specific definitions for crowdsourcing are heavily debated.~\cite{estelles2012towards}
 The word \emph{crowdsourcing} is a compound contraction of \emph{crowd} and \emph{outsourcing}.
-Thus crowdsourcing can be seen as outsourcing to the crowd, where a \emph{crowd} is a large set of anonymous individuals~\cite{surowiecki2005wisdom}.
-Due to anonymity, individuals cannot be individually identified or recognized. Implicit in this definition is the idea that a firm cannot “build its own crowd”. Moreover, the crowd is generally composed of heterogeneous individuals.
-In particular, a crowd may be composed of scientists and experts in various fields, but also of novices.
+Therefore, crowdsourcing can be seen as outsourcing to a crowd, where a \emph{crowd} is a large set of anonymous individuals~\cite{surowiecki2005wisdom}.
+Due to anonymity, individuals cannot be individually identified or recognized. 
+Implicit in this definition is the idea that a firm cannot “build its own crowd”. 
+Moreover, the crowd is generally composed of heterogeneous individuals.
+In particular, a crowd may be composed of scientists or experts in various fields, but may also contain of novices.
 
-Crowdsourcing as a business term was coined in 2005 by Jeff Howe~\footnote{\url{http://www.wired.com/2006/06/crowds/}}, who later defined it in his book.
-The term is also defined by Merriam-Webster dictionary~\footnote{\url{http://www.merriam-webster.com/dictionary/crowdsourcing}}.
-We combined both definitions and the word meaning in order to create a more general term we will use later in the research (see Definition \autoref{def:crowdsourcing}).
+Crowdsourcing as a business term was coined in 2005 by Jeff Howe~\footnote{\url{http://www.wired.com/2006/06/crowds/}}, who later defined it in his book as shown below.
+The term was also defined by the Merriam-Webster dictionary~\footnote{\url{http://www.merriam-webster.com/dictionary/crowdsourcing}}.
+We combined both definitions and the word meaning in order to create a more general term, which we will use later in our research (see Definition \autoref{def:crowdsourcing}).
 
 \begin{definition}[By Jeff Howe]
 Crowdsourcing is the act of taking a job traditionally performed by a designated agent (usually an employee) and outsourcing it to an undefined, generally large group of people in the form of an open call.
@@ -616,56 +618,56 @@ Crowdsourcing is the process of obtaining needed services, ideas, or content by 
 
 \begin{definition}[Combined definition]
 \label{def:crowdsourcing}
-Crowdsourcing is the process of obtaining needed services, ideas, or content by a form of outsourcing not directed to other companies but to the large set of anonymous individuals by means of an open call.
+Crowdsourcing is the process of obtaining needed services, ideas, or content by a form of outsourcing not directed to other companies, but to the large set of anonymous individuals by means of an open call.
 \end{definition}
 
 Sometimes it might be challenging to decide if an application can be called a crowdsourcing platform.
-In scope of the current research we take into consideration only the systems dealing with the digital content. 
-In order to define the class of systems we will discuss in the thesis, we adapted the definition~\cite{doan2011crowdsourcing} as following:
+In scope of the current research we take into consideration only the systems dealing with digital content. 
+In order to define the class of systems we will discuss in this thesis, we adapted the definition from~\cite{doan2011crowdsourcing} to the following:
 
 \begin{definition}[Crowdsourcing system/platform] 
 \label{def:cs_system}
-A crowdsourcing system is a web-based system that enlists a crowd of humans to help solve a problem defined by the system owners, and in doing so, it addresses the following four fundamental challenges: (1) how to recruit and retain users; (2) what contributions can users make; (3) how to combine user contributions to solve the target problem and (4) how to evaluate users and their contributions.
+A crowdsourcing system is a web-based system that enlists a crowd of people to help solve a problem defined by the system owners; and, in doing so, it addresses the following four fundamental challenges: (1) how to recruit and retain users; (2) what contributions can users make; (3) how to combine user contributions to solve the target problem; and (4) how to evaluate users and their contributions.
 \end{definition}
 
-The crowdsourcing activities related to the web-based digital content delivery include but are not limited to:
+The crowdsourcing activities related to web-based digital content delivery include, but are not limited to:
 
 \begin{itemize}
-\item \emph{Creative crowdsourcing}, that spans sourcing creative projects such as graphic design, crowdsourcing architecture, apparel design, movies, writing, illustration, etc.
+\item \emph{Creative crowdsourcing}, which spans sourcing creative projects such as graphic design, crowdsourcing architecture, apparel design, movies, writing, illustration, etc.
 When applied to the educational domain, the creative crowdsourcing activity can be applied for collaborative authoring of educational content and its metadata.
-\item \emph{Crowdsourcing language-related data collection}, that is functionally close to creative crowdsourcing, but requires the crowd to be multicultural.
+\item \emph{Crowdsourcing language-related data collection}, which is functionally close to creative crowdsourcing, but requires the crowd to be multicultural.
 This special activity is used for creating and improving all kinds of dictionaries.
-In \autoref{sec:multilinguality} we discuss the adaptation of the activity for the creation of multilingual educational content and its metadata.
-\item \emph{Crowdvoting}, that allows applications to collect opinions and rankings on a certain topic from a large auditory.
-The crowdvoting may be applied to solve a variety of problems, such as quality assurance, product and services rankings, content recommendations and others.
-In the educational domain we will discuss the crowdvoting mostly as an approach for quality management.
-\item \emph{Social tagging}, that collects tags for the content, usually in form of notes, questions, labels  etc. 
-Those tags are then used for content categorization, search improvements, personalization and recommendation.
-Social tagging allows to transform the plain text into learning objects with machine-readable metadata. 
+In \autoref{sec:multilinguality} we discuss the adaptation of this activity for the creation of multilingual educational content and its metadata.
+\item \emph{Crowdvoting}, which allows applications to collect opinions and rankings on a certain topic from a large audience.
+Crowdvoting may be applied to solve a variety of problems, such as quality assurance, product and services rankings, content recommendations, and others.
+In the educational domain we will discuss the crowdvoting activity mostly as an approach for quality management.
+\item \emph{Social tagging}, which collects tags for the content, usually in form of notes, questions, labels,  etc. 
+These tags are then used for content categorization, search improvements, personalization, and recommendations.
+Social tagging allows the transformation of plain text into learning objects with machine-readable metadata. 
 \end{itemize}
 
-While those activities are examples of explicit crowdsourcing, a number of approaches to solve a wide range of problems are based on implicit crowdsourcing.
-According to \cite{doan2011crowdsourcing}, with explicit crowdsourcing, users can build artifacts by providing information and editing other people's work.
+While these activities are examples of explicit crowdsourcing; a number of approaches to solve a wide range of problems are based on implicit crowdsourcing.
+According to \cite{doan2011crowdsourcing}, explicit crowdsourcing entails that users can build artifacts by providing information and editing other people's work.
 Users can evaluate particular items like books or webpages, or share by posting products or items.
 Implicit crowdsourcing can take two forms: standalone and piggyback.
 Standalone allows people to solve problems as a side effect of the task they are actually doing, whereas piggyback takes users' information from a third-party website to gather information.
-Implicit crowdsourcing is most frequently used to collect user provided data in order to apply data-mining techniques to them.
+Implicit crowdsourcing is most frequently used to collect user data in order to apply data-mining techniques to them.
 For example, a user's search history can be collected and analyzed in order to discover keywords for ads, spelling corrections, and finding synonyms.
 In this way, users are unintentionally helping to improve the performance of existing systems.
 Often gamification methods are used to motivate users to implicitly contribute.
-For example in the \emph{ESP game}~\cite{von2004labeling} users guess what is pictured on images and then these labels are used to tag Google images.
+For example in the \emph{ESP game}~\cite{von2004labeling}, users guess what is pictured on images and then these labels are used to tag Google images.
 
 \subsection{Benefits, Limitations and Controversies}
 
-Only based on the Definition~\autoref{def:cs_system}, it is already clear that crowdsourcing as a task-solving approach has not only benefits when compare with expert-based approach, but a number of issues and challenges as well.
+Based on the definition~\autoref{def:cs_system} alone, it is already clear that crowdsourcing as a task-solving approach has not only benefits, when compared with expert-based approach, but a number of issues and challenges as well.
 When compared with a limited number of experts, a crowd has both strengths and weaknesses.
-As it was already mentioned in \autoref{sec:crowdsourcing_def}, we focus our later discussion on the content development task.
-In the section we discuss the positive and negative influence of crowdsourcing on different aspects of content development process.
+As was already mentioned in \autoref{sec:crowdsourcing_def}, we focus our later discussion on the content development task.
+In this section we discuss the positive and negative influence of crowdsourcing on different aspects of the content development process.
 
 \paragraph{Content quality}
 
-Allowing a community or even the whole population contribute to the content improves its quality due to continuous iterational development, improvement and update of the content.
-Crowdsourcing also positively influences the quality by producing unbiased content due to incorporating a large population of participants with a diverse background. 
+Allowing a community or even the whole population to contribute to content creation improves its quality due to continuous iterational development, improvement and updating of the content.
+Crowdsourcing also positively influences the quality by producing unbiased content due to the incorporation of a large population of participants with diverse backgrounds. 
 However in order this to be true, the initiator of the crowdsourcing activity must be sure that the community has enough expertise to solve the task.
 The unbiasy of the produced content is also not absolute.
 The research~\cite{hirth2011human} proves that crowdworkers are a nonrandom sample of the population.
