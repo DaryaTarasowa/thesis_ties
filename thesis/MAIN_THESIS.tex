@@ -352,8 +352,8 @@ Only 12 out of the 100 courses were originally offered in languages other than E
 \item{Recency.} Out of 100 courses assessed in 2014, only 32 courses have been updated in the last two years.
 \item{Learning by Self-assessment.} Self-assessment material is only available as part of the course material in 15 courses and separately for another 40 courses.
 Out of these 55 courses with some form of self-assessment, just 25 provide solutions.
-\item{Engaging course material.} Although, two thirds (i.e. 65) of the courses have at least one example and one illustration, just one quarter of the courses (i.e. 25) have more than 50 examples.
-Based on the ratio of illustrations per course unit, almost two thirds of the courses (i.e. 60) are objectively of low attractiveness.
+\item{Engaging course material.} Although, two thirds of the courses have at least one example and one illustration, just one quarter of the courses has more than 50 examples.
+Based on the ratio of illustrations per course unit, almost two thirds of the courses are objectively of low attractiveness.
 \item{Community Involvement.} The content of 61 courses has been created by a single author. Only 16 courses are the result of collaborative work.
 \end{itemize}
 
@@ -413,7 +413,7 @@ Such collaboration affects different aspects of content production, such as: con
 According to a study from the early ninetees~\cite{posner1992people}, already at that time most of the work in academia, business and industry was completed by groups of people collaboratively.
 This is why collaborative creation of educational materials is natural.
 From a psychological and sociological point of view it is proven that people like to collaborate \cite{smith1995cooperative, Halimi2011}.
-Several psychologists demonstrated the effects of collective work on the process of cognitive development in people.
+According to the studies, collaboration positively influences cognitive development in people.
 Generally, people even \emph{prefer} to work together; 
 according to \cite{smith1995cooperative, Halimi2011}, the reasons for this include:
 
@@ -443,19 +443,25 @@ Wikis support text authoring and versioning; with OpenStreetMap editors, maps ca
 For OpenCourseWare, such technological and organizational support for collaborative authoring and translation does not exist.
 To be more specific, there is no authoring tool supporting true collaboration on learning ~\cite{Nurjanah2011}, which should include not only the possibility to reuse (parts of) the content, but also allow authors to understand what other authors do (1), why a learning object should be created (2) and how the authoring process is proceeding (3). 
 
-In order to define the challenges preventing the development of such a system we have conducted an systematic literature review in the domain of collaborative authoring of educational content.
+In order to define the challenges preventing the development of such a system we have conducted systematic literature review in the domain of collaborative authoring of educational content.
 The detailed results of this review are presented in~\autoref{chapter:related_work}.
-According to our study, the main obstacles for implementing the support of large-scale collaboration on educational content are: (1) content reusability and interoperability, (2) full support of social collaboration, and (3) support of multilinguality.
+According to our study, the main obstacles for implementing the support of large-scale collaboration on educational content are: 
+\begin{enumerate}
+\item content reusability and interoperability,
+\item full support of social collaboration and
+\item support of multilinguality.
+\end{enumerate}
 The scope of this thesis is to define and discuss these obstacles, as well as propose and evaluate an example system design facing them.
 
-\section{Usage Scenario}  
+\section{Problem Description and Example Solution}  
 Andrea Malupos is a trainer supporting young adults with disability and impairment in their professional life.
-At a training center in Madrid, she is training groups of 5-10 school graduates in technical and horizontal topics for improving their employment chances.
+At a training center in Madrid, she is training groups of 5-10 school graduates in topics necessary for improving their employment chances.
 A particularly important aspect is auto-learning, where the trainees work with the course and accompanying material.
 Andrea was requested to prepare a new course module on career development, personal marketing as well as curricula vitae and reference portfolio presentation.
-Although she finds some material she could use for her course online, it is cumbersome to investigate licensing conditions, organize and translate the content (mostly only available in non-reusable PDF) and enrich it with specific material as well as self-learning and -assessment possibilities.
-However, Andrea is part of a national and international network of trainers providing similar training courses.
-A collaborative web platform, based on our approach, is extensively used within the network.
+Although she finds some material she could use for her course online, it is cumbersome to investigate licensing conditions, organize and translate the content mostly only available in non-reusable PDF, and enrich it with specific material as well as self-learning and -assessment possibilities.
+
+The solution for the problem would be Andrea becomes part of a national and international network of trainers providing similar training courses.
+A collaborative web platform for collaborative OCW authoring is extensively used within the network.
 Using the platform, she can quickly develop a structure of the envisioned course material and integrate some existing modules she found.
 The colleagues in her network are interested in contributing to specific parts related to their area of competence. 
 Using the semi-automatic and crowd-sourced translation features the material is easily translated and kept-in-sync in five languages.
@@ -464,21 +470,21 @@ Since the material is used by a number of collaborators, new additions and exten
 Andrea's Italian colleague plans to produce a MOOC in Italian on the topic.
 Since the course material, including self-assessment questions, tasks, project descriptions, and illustrations, is already available, the effort to produce the MOOC is reduced by more than 60\%.
 
-\section{Overview of our Approach}
+\section{Research Questions}
 \label{section:approach_overview}
 
-The main goal of the research summarized in this thesis is providing a complex approach dealing with the challenges of collaborative authoring of OERs.
+The main goal of the research summarized in this thesis is providing a comprehensive approach dealing with the problems of collaborative authoring of OERs.
 More specifically, our research answers the following questions:
 \begin{enumerate}
 \item Related to content reusability: 
 \begin{itemize}
-\item How to make content truly reusable?
-\item How to make it searchable
-\item How to publish content effectively?
+\item How to make content reusable on a large-scale?
+\item How to make content easy to search and filter?
+\item How to publish content with the possibility to migrate it between various platforms?
 \end{itemize} 
 \item Related to social collaboration: 
 \begin{itemize}
-\item How to organize collaboration effectively?
+\item How to organize and facilitate large-scale collaboration?
 \item How to deal with mistakes and vandalism?
 \item How to collaborate on structured content?
 \end{itemize}
@@ -490,6 +496,8 @@ More specifically, our research answers the following questions:
 \end{enumerate}
 In this section we briefly describe the strategies underlying our approach.
 
+\section{Overview of the Proposed Solution}
+\todo{introduction}
 \subsection{Content Reusability and Interoperability}
 \label{sec:content_reusability_structuring}
 The paradigm of \emph{Open Educational Resources} supposes the creation and sharing of reusable, re-purposable learning objects, annotated by standardized metadata.
@@ -540,7 +548,7 @@ Since the emergence of Web2.0 concept the Internet has transformed from a large-
 Following the ideas of Tim Berners-Lee, it is now possible and even easy not only consume information, but to provide and share it through the web channels.
 Moreover, a number of technologies has been developed to support different aspects of the collaboration.
 Thus, the wiki-way of content authoring provides tools in order to make the content creation process accessible for larger audience; social networking channels support the communication and negotiation of collaborators, as well as allow sharing the content between users net.
-Those technologies allow decrease the costs of content development while keeping the content unbiased, up-to-date and open, which are especially important values for the educational content.
+Those technologies allow a decrease in the costs of content development while keeping the content unbiased, up-to-date and open, which are especially important values for the educational content.
 
 In our approach we apply the technologies supporting social collaboration to the structured educational content development.
 In order to do so, we needed to deal with versionning, merging and branching of the structured content, as well as with standard-compliance issues.
@@ -571,7 +579,11 @@ In order to deal with the synchronization issue we have developed the Crowd-sour
 The concept is built on top of CrowdLearn concept and WikiApp data model discussed above.
 It adds additional relations and operations to model translating activities and connections between original and translated versions.
 The CoSMEC concept introduces the paradigm of \emph{co-evolution} of multilingual content, that means the ability to update a translation to the current state of the source object and vice versa. 
-In this manner the content versions in different languages can be (semi-)automatically synchronized, while staying individual learning objects and thus ensuring its abilities to reuse and repurpose. 
+In this manner the content versions in different languages can be (semi-)automatically synchronized, while staying individual learning objects and thus ensuring its abilities to reuse and repurpose.
+
+\section{Research Methods}
+\todo{write it + thesis structure} 
+
 
 %==============================================================================
 \chapter{Collaborative authoring on the Web}
@@ -1566,7 +1578,7 @@ They consider the following ten factors to determine the OER quality:
 \end{itemize}
 
 The list of factors correlates well with the challenges of the collaborative OCW authoring we defined. 
-Thus, solving the challenges will guarantee high quality of the resulting OERs.
+Thus, solving the challenges will guarantee high quality of the resulting OERs according to this list of factors.
 
 
 \section{Educational Content Reuse and Re-purpose Studies}
